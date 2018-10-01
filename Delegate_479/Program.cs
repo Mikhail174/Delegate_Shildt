@@ -40,7 +40,7 @@ namespace Delegate_479
             StrMod replaceSp = ReplaceSpaces;
             StrMod removeSp = RemoveSpaces;
             StrMod reverseStr = Reverse;
-            string str = "Это простой тест";
+            string str = "Это простой тесgт";
 
             //организовать групповую переадресацию
             strOp = replaceSp;
