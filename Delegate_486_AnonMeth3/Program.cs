@@ -26,7 +26,7 @@ namespace Delegate_486_AnonMeth3
             Console.WriteLine("Сумма 3 равна " + result);
             Console.WriteLine();
             result = count(5);
-            Console.WriteLine("Сумма 5 равна " + result);
+            Console.WriteLine("Сумма  5 равна " + result);
             Console.WriteLine();
         }
     }
