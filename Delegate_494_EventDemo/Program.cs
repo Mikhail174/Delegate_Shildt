@@ -33,7 +33,7 @@ namespace Delegate_494_EventDemo
             MyEvent evt = new MyEvent();
             //добавить метод Handler() в список событий
             evt.SomeEvent += Handler;
-            //запустить событие 
+            ///запустить событие 
             evt.OnSomeEvent();
         }
     }
