@@ -38,7 +38,7 @@ namespace Delegate_498_EventDemo3
             evt.SomeEvent += o1.Xhandler;
             evt.SomeEvent += o2.Xhandler;
             evt.SomeEvent += o3.Xhandler;
-            //запустить событие
+            //запустить событиеt
             evt.OnSomeEvent();
         }
     }
