@@ -70,7 +70,7 @@ namespace Delegate_506_EventDemo6
             //добавить обработчик Handler() в цепочку событий
             evt.SomeEvent += ob1.Handler;
             evt.SomeEvent += ob2.Handler;
-            //запустить событие
+            //запустить событие.
             evt.OneSomeEvent();
             evt.OneSomeEvent();
 
