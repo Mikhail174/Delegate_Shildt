@@ -38,7 +38,7 @@ namespace Delegate_509_KeyEventDemo
             kevt.KeyPress += (sender, e) => Console.WriteLine("Получено сообщение о нажатии клавиши: " + e.ch);
 
             //использовать лямбда-выражение для подсчёта нажатых клавиш
-            kevt.KeyPress += (sender, e) => count++; //count - внешнаяя переменная
+            kevt.KeyPress += (sender, e) => count++; //count - внешнаяя переменнаяя
 
             Console.WriteLine("ВВедите несколько символов, по завершении введите точку");
             do
