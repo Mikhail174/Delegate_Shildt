@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_499_EventDemo4", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_499_EventDemo5", "Delegate_499_EventDemo5\Delegate_499_EventDemo5.csproj", "{61448E60-9467-460B-BEB5-5935453E1AB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_505_LambdaEventDemo", "Delegate_505_LambdaEventDemo\Delegate_505_LambdaEventDemo.csproj", "{17951E64-2CC3-467B-9D24-08D69195C71D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_506_EventDemo6", "Delegate_506_EventDemo6\Delegate_506_EventDemo6.csproj", "{E45C1ECB-B1A0-4442-9C00-335E288DF363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{61448E60-9467-460B-BEB5-5935453E1AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61448E60-9467-460B-BEB5-5935453E1AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61448E60-9467-460B-BEB5-5935453E1AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17951E64-2CC3-467B-9D24-08D69195C71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17951E64-2CC3-467B-9D24-08D69195C71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17951E64-2CC3-467B-9D24-08D69195C71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17951E64-2CC3-467B-9D24-08D69195C71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45C1ECB-B1A0-4442-9C00-335E288DF363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45C1ECB-B1A0-4442-9C00-335E288DF363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45C1ECB-B1A0-4442-9C00-335E288DF363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45C1ECB-B1A0-4442-9C00-335E288DF363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
